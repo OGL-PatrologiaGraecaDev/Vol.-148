@@ -1,0 +1,18 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/148/nnc1.0046980490/788.png"; bbox 0 0 2109 3227; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1369 261 1867 409">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1369 261 1867 409">
+     <span class='ocr_line' id='line_1_1' title="bbox 1369 261 1867 409; baseline -0.044 6"><span class='ocrx_word' id='word_1_1' title='bbox 1369 261 1788 409; x_wconf 50' lang='lat' dir='ltr'>manum</span> <span class='ocrx_word' id='word_1_2' title='bbox 1866 385 1867 393; x_wconf 21' lang='grc' dir='ltr'><em>χ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 674 2526 1668 3194">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 678 2530 1664 2988">
+     <span class='ocr_line' id='line_1_2' title="bbox 1082 2530 1443 2675; baseline -0.097 -78"><span class='ocrx_word' id='word_1_3' title='bbox 1082 2530 1229 2675; x_wconf 42' lang='grc' dir='ltr'>κ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1275 2555 1338 2626; x_wconf 33' lang='grc' dir='ltr'>ἐκ-</span> <span class='ocrx_word' id='word_1_5' title='bbox 1390 2553 1443 2600; x_wconf 24' lang='grc' dir='ltr'><em>,ὦ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 694 2769 1664 2909; baseline -0.072 3"><span class='ocrx_word' id='word_1_6' title='bbox 694 2844 907 2909; x_wconf 56' lang='grc' dir='ltr'>ίερῑῖ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1387 2802 1389 2805; x_wconf 80' lang='lat'>‘</span> <span class='ocrx_word' id='word_1_8' title='bbox 1493 2769 1664 2840; x_wconf 59' lang='lat' dir='ltr'>‘fT‘H‘</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 678 2827 1663 2988; baseline -0.085 2"><span class='ocrx_word' id='word_1_9' title='bbox 678 2857 863 2988; x_wconf 47' lang='lat' dir='ltr'>NW</span> <span class='ocrx_word' id='word_1_10' title='bbox 883 2885 1054 2970; x_wconf 57' lang='lat' dir='ltr'>ma</span> <span class='ocrx_word' id='word_1_11' title='bbox 1074 2879 1287 2954; x_wconf 46' lang='lat' dir='ltr'>una</span> <span class='ocrx_word' id='word_1_12' title='bbox 1309 2871 1483 2935; x_wconf 52' lang='lat' dir='ltr'>mw</span> <span class='ocrx_word' id='word_1_13' title='bbox 1518 2827 1663 2918; x_wconf 47' lang='lat' dir='ltr'>HV“</span> 
+     </span>
+    </p>
+   </div>
+  </div>
